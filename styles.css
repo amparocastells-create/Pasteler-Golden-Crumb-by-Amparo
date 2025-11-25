@@ -34,3 +34,6 @@ ul li a:hover{
 	font-weight: bold;
 	border-bottom: solid 2px #ed11dc;
 }
+.fancyImage:hover{
+	opacity: 0.8;
+}
